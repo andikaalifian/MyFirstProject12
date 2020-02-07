@@ -14,6 +14,7 @@ public class Act extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_);
 
+        int a  = 10;
 
         Button btnpindah = findViewById(R.id.btn);
         btnpindah.setOnClickListener(new View.OnClickListener() {
@@ -22,7 +23,7 @@ public class Act extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, MainActivity.class);
                 startActivity(intent);
                 finish();
-            }
-        });
+    }
+});
     }
 }
