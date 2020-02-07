@@ -1,0 +1,7 @@
+<resources>
+
+    <string name='coba'>MyFistProjct</string>
+    <String name="@String/konten_berita">ini Konten Betina Geh aaaaaaaaaaaaaaa</String>
+    <String name="iseng">isinya iseng</String>
+
+</resources>
